@@ -1,0 +1,17 @@
+# data directory
+uploads/*
+assets/*
+
+# ignore any test files
+*test*
+
+
+# system package
+system
+
+
+# other files
+phpdoc.dist.xml
+*.ci
+
+
